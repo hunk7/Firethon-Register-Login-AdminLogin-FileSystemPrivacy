@@ -1,5 +1,6 @@
 # Firethon - Register User | User Login | Admin Login
 # File System - Static File Download | Uploaded File Download | Upload File ( Admin Login )
+## Admin Login : Admin7 | Admin7@9090
 ### Learning Resources 
  Author : Ganesh Bhadra     
  License : MIT  

@@ -1,9 +1,9 @@
 <?php
 
 $dbservername = "localhost";
-$dbUsername = "u182797702_firethon";
-$dbPassword = "firethon123";
-$dbName = "u182797702_firethon";
+$dbUsername = "Username";
+$dbPassword = "Password";
+$dbName = "db_name";
 
 $conn = new mysqli($dbservername, $dbUsername, $dbPassword, $dbName);
  /* check connection */

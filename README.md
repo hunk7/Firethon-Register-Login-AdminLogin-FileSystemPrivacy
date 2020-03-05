@@ -3,7 +3,7 @@
 ### Learning Resources 
  Author : Ganesh Bhadra     
  License : MIT  
- Created for Learning & Practices  
+ Created for Fireblaze Technologies pvt Ltd.  
  github.com/hunk7     
 
 Firethon - Signup & Login - Php -- You are NOT allowed to re-distribute our template file for any reason on your template sites or template collection sites.

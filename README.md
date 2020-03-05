@@ -6,6 +6,8 @@
  Created for Fireblaze Technologies pvt Ltd.  
  github.com/hunk7     
 
+You can feel free to edit and use this template for any personal use of your website. You can modify text and images to suit your own website.
+
 Firethon - Signup & Login - Php -- You are NOT allowed to re-distribute our template file for any reason on your template sites or template collection sites.
 
 Note : Match User uid with the Condition for Admin Access

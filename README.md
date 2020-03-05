@@ -8,6 +8,8 @@
 
 Firethon - Signup & Login - Php -- You are NOT allowed to re-distribute our template file for any reason on your template sites or template collection sites.
 
+Note : Match User uid with the Condition for Admin Access
+
 THANK YOU
 
 - HTML5 

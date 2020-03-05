@@ -1,13 +1,12 @@
 # Firethon - Register User | User Login | Admin Login
 # File System - Static File Download | Uploaded File Download | Upload File ( Admin Login )
-## Admin Login : Admin7 | Admin7@9090
 ### Learning Resources 
  Author : Ganesh Bhadra     
  License : MIT  
  Created for Learning & Practices  
  github.com/hunk7     
 
-You can feel free to edit and use this template for any Commercial or personal use of your website . You can modify text and images to suit your own needs.
+Firethon - Signup & Login - Php -- You are NOT allowed to re-distribute our template file for any reason on your template sites or template collection sites.
 
 THANK YOU
 

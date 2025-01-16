@@ -1,10 +1,5 @@
 # Firethon - Register User | User Login | Admin Login
-# File System -  Admin Dataset Upload | Admin View Submission | Dataset File Download User | Upload Submission User
-### Learning Resources 
- Author : Ganesh Bhadra     
- License : MIT  
- ### Created for Fireblaze Technologies pvt Ltd.  
- github.com/hunk7     
+# File System -  Admin Dataset Upload | Admin View Submission | Dataset File Download User | Upload Submission User    
 
 Note : Match User uid with the Condition for Admin Access
 
@@ -34,15 +29,6 @@ User Uplaod
 
 ![alt text](https://res.cloudinary.com/codersprofile/image/upload/v1588598811/Firethon_8_mltndn.png)
 
-THANK YOU
-
-- HTML5 
-- CSS3
-- JavaScript
-- Bootstrap
-- Php
-- Ajax
-- MySQL
 - PhpMyAdmin
 - Sass
 - Git

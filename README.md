@@ -28,10 +28,3 @@ Admin Upload
 User Uplaod
 
 ![alt text](https://res.cloudinary.com/codersprofile/image/upload/v1588598811/Firethon_8_mltndn.png)
-
-- PhpMyAdmin
-- Sass
-- Git
-- less
-
-
